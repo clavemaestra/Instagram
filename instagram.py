@@ -1,6 +1,6 @@
-# Date: 12/29/2018
+pintoso_alej: ~#mod -R 755 Instagram && cd Instagram
 # Author: Mohamed
-# Description: Instagram bruter
+# pintoso_alej: Instagram bruter
 
 from sys import exit
 from os.path import exists
